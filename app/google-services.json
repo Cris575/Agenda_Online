@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:718139514247:android:ec7e289e676ced1a554722",
+        "mobilesdk_app_id": "1:718139514247:android:fed788ce76f2ed91554722",
         "android_client_info": {
-          "package_name": "com.redsystem.agendaonline"
+          "package_name": "com.cristian.agendaonline"
         }
       },
       "oauth_client": [],
