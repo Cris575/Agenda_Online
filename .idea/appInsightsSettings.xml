@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.cristian.agendaonline" />
+                  <option name="mobileSdkAppId" value="1:718139514247:android:fed788ce76f2ed91554722" />
+                  <option name="projectId" value="notas-39dba" />
+                  <option name="projectNumber" value="718139514247" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
